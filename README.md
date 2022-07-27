@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vladalive&theme=onedark&hide_border=true)](#)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladalive&theme=onedark&show_icons=true&count_private=true)](https://github.com/vladalive)
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vladalive&theme=onedark&langs_count=10&range=last_7_days)](https://wakatime.com/@vladalive)
