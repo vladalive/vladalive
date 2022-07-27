@@ -7,6 +7,15 @@ I'm a **Software Engineer** since **2007**.
 I like to *create* and *innovate*.
 \
 I want to build a billion dollar company.
+\
+And change the world.
+
+Currently I'm a nomad fleeing from Russia
+\
+because of Putin's war in Ukraine.
+\
+🇺🇦🕊
+
 
 I speak \
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](#)
