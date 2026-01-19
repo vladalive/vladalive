@@ -37,7 +37,7 @@ Practice \
 
 ### Funny stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vladalive&theme=onedark)](#)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=vladalive&theme=onedark)](#)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladalive&theme=onedark&show_icons=true&count_private=true)](https://github.com/vladalive)
 
